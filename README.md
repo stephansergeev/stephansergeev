@@ -1,16 +1,18 @@
-## Hi there 👋
+## Stephan Sergeev
 
-<!--
-**stephansergeev/stephansergeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and fix sales systems. Pipelines, handoffs between teams, client data,
+outreach, and the automation that holds it together.
 
-Here are some ideas to get you started:
+Right now I run a sales department in high-ticket complex sales. Most of what I
+build is internal and sits under NDA, so this profile is deliberately thin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Public work**
+
+- [Lockstep Sync](https://github.com/stephansergeev/obsidian-lockstep-sync) —
+  sync an Obsidian vault between desktop, iOS and Android through your own
+  server. Self-hosted, end to end encrypted, MIT.
+
+**Elsewhere**
+
+- [stephansergeev.com](https://stephansergeev.com)
+- [LinkedIn](https://www.linkedin.com/in/stephansergeev/)
